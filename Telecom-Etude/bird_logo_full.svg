@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1"
+    viewBox="235 235 555 555">
+    <defs>
+        <linearGradient y1="44.0144" id="LinearGradient" x1="482.724" y2="44.0144" x2="517.539"
+            gradientUnits="userSpaceOnUse" gradientTransform="matrix(11.1417 0 0 11.1417 -5014.71 131.897)">
+            <stop stop-color="#fd8334" offset="0" />
+            <stop stop-color="#e03b42" offset="0.56" />
+            <stop stop-color="#d51f48" offset="1" />
+        </linearGradient>
+        <linearGradient y1="33.5862" id="LinearGradient_2" x1="474.536" y2="33.5862" x2="513.453"
+            gradientUnits="userSpaceOnUse" gradientTransform="matrix(11.1417 0 0 11.1417 -5014.71 131.897)">
+            <stop stop-color="#fd8334" offset="0" />
+            <stop stop-color="#e03b42" offset="0.56" />
+            <stop stop-color="#d51f48" offset="1" />
+        </linearGradient>
+        <linearGradient y1="29.7802" id="LinearGradient_3" x1="477.185" y2="29.7802" x2="509.863"
+            gradientUnits="userSpaceOnUse" gradientTransform="matrix(11.1417 0 0 11.1417 -5014.71 131.897)">
+            <stop stop-color="#fd8334" offset="0" />
+            <stop stop-color="#e03b42" offset="0.56" />
+            <stop stop-color="#d51f48" offset="1" />
+        </linearGradient>
+    </defs>
+    <g id="Layer 1">
+        <g opacity="1">
+            <path stroke="#ffffff" stroke-width="8"
+                d="M705.85+475.181L679.051+494.038L575.018+544.575L475.825+556.077L452.428+482.579L364.72+758.036C361.392+768.291+366.227+772.378+375.514+767.087L456.656+720.888C464.55+716.391+469.894+705.288+468.753+696.185L473.964+593.791L593.071+549.855L679.051+535.146C678.976+535.313+679.043+535.543+679.051+535.523L744.746+556.832C751.149+558.91+753.403+555.705+749.957+549.855L705.85+475.181Z"
+                fill="url(#LinearGradient)" stroke-linecap="butt" opacity="1" stroke-linejoin="round" />
+            <path stroke="#ffffff" stroke-width="8"
+                d="M278.181+339.41C270.036+339.251+270.347+345.398+280.414+355.816L439.888+522.22L452.153+483.602L551.197+531.94L469.735+672.802L628.058+619.248C631.3+618.185+635.394+615.024+637.178+612.083L666.21+564.186L706.036+474.804L608.331+474.804L559.2+523.643L475.825+404.467L288.975+341.673C284.423+340.143+280.896+339.464+278.181+339.41Z"
+                fill="url(#LinearGradient_2)" stroke-linecap="butt" opacity="1" stroke-linejoin="round" />
+            <path stroke="#ffffff" stroke-width="8"
+                d="M309.837+254.866C300.893+256.366+299.181+264.533+306.674+276.363L447.183+498.121L469.629+672.802L666.042+564.498L510.775+308.504C508.031+303.98+501.673+299.311+496.575+298.077L321.19+255.62C316.693+254.529+312.819+254.366+309.837+254.866Z"
+                fill="url(#LinearGradient_3)" stroke-linecap="butt" opacity="1" stroke-linejoin="round" />
+        </g>
+    </g>
+</svg>

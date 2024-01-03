@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="thé lait com.svg"
+   inkscape:export-filename="C:\Users\alexa\OneDrive\Bureau\PERSO\DESSIN\thé lait com.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="254.25099"
+     inkscape:cy="621.81773"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#5fd3bc;stroke:none;stroke-width:1.77944"
+       id="path871"
+       cx="249.22214"
+       cy="306.40231"
+       rx="37.162724"
+       ry="50.552666"
+       transform="matrix(-0.86759434,0.49727262,0.99162896,0.12912014,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.0809px;line-height:1.25;font-family:'Bukhari Script';-inkscape-font-specification:'Bukhari Script';fill:#2b1100;stroke:none;stroke-width:0.26894;stroke-opacity:1"
+       id="text837"
+       transform="translate(-23.177847,-7.2294173)"><textPath
+         xlink:href="#path862"
+         id="textPath864"><tspan
+           id="tspan835"
+           style="font-size:20.0809px;fill:#2b1100;stroke:none;stroke-width:0.26894;stroke-opacity:1">Thé Lait Com</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.222144px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.630597,180.7645 c 0,0 37.442378,-6.59572 56.750413,-6.7826 20.17186,-0.19524 59.66066,5.93477 59.66066,5.93477 v 0 0"
+       id="path862"
+       sodipodi:nodetypes="caccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.791664"
+       y="177.53743"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="68.791664"
+         y="177.53743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bukhari Script';-inkscape-font-specification:'Bukhari Script';fill:#ffffff;stroke-width:0.264583">Tea Club</tspan></text>
+    <path
+       id="path921"
+       style="fill:#5fd38d;stroke:none;stroke-width:1.00637"
+       d="m 149.48958,133.61458 c -6.5121,0.8567 1.42291,24.33406 -7.0988,16.19252 -3.29523,-3.14822 -15.79102,-4.62412 -15.20871,-5.31809 1.87856,-2.23876 13.78136,-12.57148 18.39021,-13.1539 4.60887,-0.58243 6.81484,1.8983 3.9173,2.27947 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       style="fill:#afe9c6;stroke:none;stroke-width:0.278895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.16667,132.29167 c 0,0 -5.71986,2.23449 -7.93751,4.40971 -2.3839,2.33829 -5.29166,8.81945 -5.29166,8.81945 0,0 4.55584,-6.21564 7.29619,-8.95316 2.36468,-2.36224 5.93298,-4.276 5.93298,-4.276 z"
+       id="path924"
+       sodipodi:nodetypes="cacsc" />
+  </g>
+</svg>
