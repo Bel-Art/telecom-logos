@@ -44,10 +44,10 @@ CSS = """.thumbnail {
   text-decoration: none;
 }
 
-.thumbnail span img {
+.thumbnail span > * {
   border-width: 0;
   padding: 2px;
-  min-width: 500px;
+  min-width: 800px;
 }
 
 .thumbnail:hover span {
@@ -99,9 +99,13 @@ def create_index_html(folder):
         isdir = os.path.isdir(p)
         date = datetime.fromtimestamp(getmtime(p)).strftime("%Y-%m-%d %H:%M:%S")
         url = FOLDER if isdir else UNKNOWN
-        preview = not isdir and not name.endswith(".md")
+        preview = not isdir
         add = 'class="thumbnail"' if preview else ""
-        other = f'<span><img src="{name}"></span>' if preview else ""
+        other = ""
+        if name.endswith(".md"):
+            other = f'<span><iframe src="{name}"></iframe></span>'
+        elif preview:
+            other = f'<span><img src="{name}"></span>'
         s += t.substitute(
             file=name, date=date, size=size(getsize(p)), url=url, add=add, other=other
         )
