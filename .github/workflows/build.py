@@ -1,4 +1,5 @@
-""" builder """
+"""builder"""
+
 from string import Template
 import os
 from os.path import getmtime, getsize, join
@@ -73,7 +74,6 @@ t = Template(
 
 URL = "https://bel-art.github.io/telecom-logos"
 REPO = "https://github.com/Bel-Art/telecom-logos"
-LINK = f'<a href="{REPO}">{REPO}</a>'
 
 UNKNOWN = f"{URL}/.static/unknown.gif"
 FOLDER = f"{URL}/.static/folder.gif"
@@ -86,9 +86,11 @@ def create_index_html(folder):
     correct_html = f"{html}".replace(
         "<title></title>", f"<title>Index of {folder}</title>"
     )
+    folder_name = folder[2:]
+    link = f"{REPO}/tree/main/{folder_name}"
     correct_html = correct_html.replace(
         "<h1></h1>",
-        f"<h1>Index of {folder} - {LINK}</h1>",
+        f'<h1>Index of {folder} - <a href="{link}">{link}</a></h1>',
     )
     for name in listed:
         if name == "index.html" or name in EXCLUDE_LIST:
