@@ -2,6 +2,10 @@
 
 > Some logos are outdated !
 
+## Add logos
+
+To add or update logos, create a [Pull request](https://github.com/Bel-Art/telecom-logos/pulls)!
+
 ## Convert to black and keep transparent background
 
 ```bash
