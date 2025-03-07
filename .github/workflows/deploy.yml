@@ -38,7 +38,7 @@ jobs:
                   python3 -m pip install indexage
                   python3 -m indexage --preview --link https://github.com/Bel-Art/telecom-logos/tree/main/ -e .git -e .github -e .gitignore -f -v .
             - name: Upload artifact
-              uses: actions/upload-pages-artifact@v2
+              uses: actions/upload-pages-artifact@v3
               with:
                   path: "."
             - name: Deploy to GitHub Pages
