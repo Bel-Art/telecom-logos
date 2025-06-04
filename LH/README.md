@@ -1,4 +1,4 @@
 # LH
 
 - [https://lh.rezel.net](https://lh.rezel.net)
-- [https://lettre-hebdomadaire.github.io/](https://lettre-hebdomadaire.github.io/)
+- [https://git.rezel.net/LettreHebdomadaire/LH](https://git.rezel.net/LettreHebdomadaire/LH)
