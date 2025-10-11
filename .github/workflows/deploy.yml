@@ -38,7 +38,7 @@ jobs:
             - name: render index.html
               run: |
                   python3 -m pip install indexage
-                  python3 -m indexage --preview --link https://github.com/Bel-Art/telecom-logos/tree/main/ -e .git -e .github -e .gitignore --force --verbose .
+                  python3 -m indexage --preview --link "${{ github.server_url }}/${{ github.repository }}/tree/main/" -e .git -e .github -e .gitignore --force --verbose .
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
               with:
