@@ -3,7 +3,7 @@
     <metadata>
         <rdf:RDF>
             <rdf:Description rdf:about="">
-                <dc:title>Sample SVG with RDF metadata</dc:title>
+                <dc:title>Logo de l'association Comète</dc:title>
                 <dc:creator>Comète Telecom Paris</dc:creator>
                 <dc:description>Logo de l'association Comète. https://comete-tp.fr/.
                     https://github.com/comete-telecom-paris/logos</dc:description>
